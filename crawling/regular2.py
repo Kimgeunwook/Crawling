@@ -7,6 +7,7 @@ import os
 import json
 from pprint import pprint
 import os.path
+
 def task(input_url,input_num,Pid,input_category,input_string):#한페이지에서 하는일 써주는 함수
     h=input_url.split('.')
     h=h[0][1:]
@@ -180,25 +181,16 @@ def detail_main(input_url,input_category,input_string):
             executor.submit(task, product_url_list[j],countt+j,productid,input_category,input_string) #스레드에 product_list0~29번 차레대로 넣어주기
 
 executor = ThreadPoolExecutor(60)              
-def Ta_main(input_string):
+def Ta_main(input_string,input_code):
     print('ta-main 호출')
     ######################################
-    #######################################
-    url_country='https://www.tripadvisor.co.uk/TypeAheadJson?action=API&types=geo&name_depth=1&details=true&legacy_format=true&rescue=true&max=8&uiOrigin=Home_geopicker&source=Home_geopicker&searchSessionId=F006E6198C9CA5D9A05BD88C0457795D1578988735242ssid&scope=1&beforeGeoId=1&afterGeoId=1&startTime=1578988963492'
-    data={'query':input_string}
-
-    req_country = requests.get(url_country,params=data)
-    html_country = req_country.content
-    soup_country = BeautifulSoup(html_country, 'lxml')
-    json_country=json.loads(soup_country.text)
-    for i in range(0,len(json_country)-1):
-        print(str(i+1)+'. '+json_country[i]["details"]["name"])
-    choice=input('몇번 나라인가요? :')
-    choice_country=json_country[int(choice)-1]["url"].split('-')[1]
     dir_path='C:\\Users\\Mandy\\Desktop\\TripAdvisor2'
-    os.mkdir(dir_path+'/'+choice_country+'/')
+    os.mkdir(dir_path+'/'+input_string+'/')
     #######################################
-    main_url='https://www.tripadvisor.co.uk/Attraction_Products-'+choice_country
+    
+    
+    #######################################
+    main_url='https://www.tripadvisor.co.uk/Attraction_Products-'+input_code
     main_req = requests.get(main_url)
     main_html = main_req.content
     main_soup = BeautifulSoup(main_html, 'lxml')
