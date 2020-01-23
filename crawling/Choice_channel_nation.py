@@ -13,6 +13,7 @@ import extract_country_in_mrt
 import Choice_menu_city
 import Mt_csv_to_excel
 import get_auto_name
+import city_top
 print('1. MRT')
 print('2. Trip Advisor')
 print('3. Monkey Travel')
@@ -23,11 +24,17 @@ if input_channel=='1':
     extract_country_in_mrt.extract(input_country)
     print('Desktop\\country\\mrt폴더 확인')
 elif input_channel=='2':
-    input_country=input('나라 입력 (영어):')
+    input_country=input('나라(도시) 입력 (영어):')
     (country,code)=get_auto_name.main(input_country)
-    regular2.Ta_main(country,code)    
-    Ta_csvtoexcel.csvtoexcel_main(country)
-    print('Desktop\\country폴더 확인')
+    print('1. 도시별 인기상품 추출')
+    print('2. 나라별 상품 추출')
+    input_num=input('번호 입력 :')
+    if input_num=='1':
+        city_top.main(country,code)
+    else:    
+        regular2.Ta_main(country,code)    
+        Ta_csvtoexcel.csvtoexcel_main(country)
+        print('Desktop\\country폴더 확인')
 elif input_channel=='3':
     print('1. 베트남')
     print('2. 태국')

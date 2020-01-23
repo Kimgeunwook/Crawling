@@ -22,7 +22,7 @@ def main(input_string):
     json_country=json.loads(soup_country.text)
     for i in range(0,len(json_country)-1):
         print(str(i+1)+'. '+json_country[i]["details"]["name"])
-    choice=input('몇번 나라인가요? :')
+    choice=input('몇번 나라(도시)인가요? :')
     choice_country=json_country[int(choice)-1]["url"].split('-')[1]
     return (json_country[int(choice)-1]["details"]["name"],choice_country)
 
