@@ -7,12 +7,12 @@
 1. python 3.7.4
 2. pip install requests
 3. pip install beautifulsoup
-```
-
-
+```       
+          
+        
 ## 프로그램 작동법   
 ### MyrealTrip, TripAdvisor, monkeyTravel 사용법
-1. Choice_channel_nation.py 실행 
+**1. Choice_channel_nation.py 실행**
      
       
 <div>      
@@ -22,4 +22,4 @@
 </div>
       
       
-2. 해당하는 채널과 국가 선택
+**2. 해당하는 채널과 국가 선택**
