@@ -11,4 +11,5 @@
 
 
 ## 프로그램 작동
-1.
+1. Choice_channel_nation.py 실행    
+<img src="C:\Users\Mandy\Desktop\실행1.PNG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="실행1"></img>
