@@ -57,3 +57,16 @@ Klook_csv_to_excel.py, Klook_detail.py폴더 부분 수정
 ## ***Trip Dot com***    
 1. csv,excel파일 생성 폴더 변경시 4.주의사항의 tripadvisor, monkeytravel case처럼   
 Tripdotcom_csv_to_excel.py, TripDotCom_detail.py폴더 부분 수정
+
+#           
+#                     
+      
+# 4.실행 결과    
+## 
+<div>      
+                                   
+<img src="https://user-images.githubusercontent.com/48399897/73332328-bdd54b80-42a9-11ea-94a1-63172d7772dd.PNG" width="50%" height="40%" title="실행 결과" alt="실행결과">     </img>
+<p>choice_category.py, monkey.py 빨간 동그라미친 폴더 설정 부분을 원하는 폴더로 변경</p>
+</div>
+
+
