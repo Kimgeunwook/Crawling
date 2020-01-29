@@ -14,6 +14,6 @@
 1. Choice_channel_nation.py 실행 
 <div>   
   
-<img src="https://user-images.githubusercontent.com/48399897/73320598-2bba4c80-4283-11ea-96e2-525d8f7d8cd3.PNG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="실행1">     </img> 
+<img src="https://user-images.githubusercontent.com/48399897/73320598-2bba4c80-4283-11ea-96e2-525d8f7d8cd3.PNG" width="20%" height="15%" title="px(픽셀) 크기 설정" alt="실행1">     </img> 
 
 </div>
