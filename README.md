@@ -42,20 +42,10 @@
 # 4. 주의사항(파일이 생성되는 위치 바꾸고 싶은 경우)    
 ## ***(case) TripAdvisor***  
 
->>>>><div>      
-                                   
-<img src="https://user-images.githubusercontent.com/48399897/73321545-290d2680-4286-11ea-8765-c51f2f830db9.PNG" width="50%" height="40%" title="regular2.py" alt="실행1">     </img><img src="https://user-images.githubusercontent.com/48399897/73321635-6ffb1c00-4286-11ea-87c6-e112573c7cf0.PNG" width="50%" height="40%" title="Ta_csvtoexcel.py" alt="실행1">     </img>    
-
-<p>regular2.py, Ta_csvtoexcel.py 빨간 동그라미친 폴더 설정 부분을 원하는 폴더로 변경</p>
-</div>
+>>>>><div><img src="https://user-images.githubusercontent.com/48399897/73321545-290d2680-4286-11ea-8765-c51f2f830db9.PNG" width="50%" height="40%" title="regular2.py" alt="실행1">     </img><img src="https://user-images.githubusercontent.com/48399897/73321635-6ffb1c00-4286-11ea-87c6-e112573c7cf0.PNG" width="50%" height="40%" title="Ta_csvtoexcel.py" alt="실행1"> </img><p>regular2.py, Ta_csvtoexcel.py 빨간 동그라미친 폴더 설정 부분을 원하는 폴더로 변경</p></div>
 
 ## ***(case) MonkeyTravel***
->>>>><div>      
-                                   
-<img src="https://user-images.githubusercontent.com/48399897/73322428-1eec2780-4288-11ea-9560-315067a468a4.PNG" width="50%" height="40%" title="choice_category.py" alt="실행1">     </img><img src="https://user-images.githubusercontent.com/48399897/73322428-1eec2780-4288-11ea-9560-315067a468a4.PNG" width="50%" height="40%" title="monkey.py" alt="실행1">     </img>    
-
-<p>choice_category.py, monkey.py 빨간 동그라미친 폴더 설정 부분을 원하는 폴더로 변경</p>
-</div>
+>>>>><div><img src="https://user-images.githubusercontent.com/48399897/73322428-1eec2780-4288-11ea-9560-315067a468a4.PNG" width="50%" height="40%" title="choice_category.py" alt="실행1">     </img><img src="https://user-images.githubusercontent.com/48399897/73322428-1eec2780-4288-11ea-9560-315067a468a4.PNG" width="50%" height="40%" title="monkey.py" alt="실행1"></img><p>choice_category.py, monkey.py 빨간 동그라미친 폴더 설정 부분을 원하는 폴더로 변경</p></div>
 
 ## ***(case) Klook***
 1. 실행 후 403에러 뜨면 klook사이트가서 봇 체크 풀어주기    
@@ -71,10 +61,6 @@ Tripdotcom_csv_to_excel.py, TripDotCom_detail.py폴더 부분 수정
       
 # 4. 실행 결과    
 ## 
->>>>><div>      
-                                   
-<img src="https://user-images.githubusercontent.com/48399897/73332666-c5e1bb00-42aa-11ea-9d28-cbc88d0e388c.PNG" width="49%" height="40%" title="실행 결과" alt="실행결과">     </img>          
-<img src="https://user-images.githubusercontent.com/48399897/73332565-7ac7a800-42aa-11ea-90f8-a8233366f3c8.PNG" width="49%" height="40%" title="실행 결과" alt="실행결과">     </img>
-</div>
+>>>>><div><img src="https://user-images.githubusercontent.com/48399897/73332666-c5e1bb00-42aa-11ea-9d28-cbc88d0e388c.PNG" width="49%" height="40%" title="실행 결과" alt="실행결과"></img><img src="https://user-images.githubusercontent.com/48399897/73332565-7ac7a800-42aa-11ea-90f8-a8233366f3c8.PNG" width="49%" height="40%" title="실행 결과" alt="실행결과"> </img></div>
 
 
