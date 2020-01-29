@@ -18,16 +18,14 @@
 **1. Choice_channel_nation.py 실행**
 
 
-<div>      
-
-<img src="https://user-images.githubusercontent.com/48399897/73320598-2bba4c80-4283-11ea-96e2-525d8f7d8cd3.PNG" width="30%" height="40%" title="Choice_channel_nation.py" alt="실행1">     </img><img src="https://user-images.githubusercontent.com/48399897/73322763-aa65b880-4288-11ea-989d-02b9ed222d41.PNG" width="60%" height="40%" title="저장되는 위치 출력" alt="실행1">     </img>  
-
-</div>
+<div> <img src="https://user-images.githubusercontent.com/48399897/73320598-2bba4c80-4283-11ea-96e2-525d8f7d8cd3.PNG" width="30%" height="40%" title="Choice_channel_nation.py" alt="실행1"></div>
       
       
 **2. 해당하는 채널과 국가 선택**
+<div>   </img><img src="https://user-images.githubusercontent.com/48399897/73322763-aa65b880-4288-11ea-989d-02b9ed222d41.PNG" width="60%" height="40%" title="저장되는 위치 출력" alt="실행1">     </img>  
+</div>
 # 4.주의사항(파일이 생성되는 위치 바꾸고 싶은 경우)    
-## ***case TripAdvisor  
+## ***case TripAdvisor***  
 
 <div>      
                                    
@@ -36,7 +34,7 @@
 <p>regular2.py, Ta_csvtoexcel.py 빨간 동그라미친 폴더 설정 부분을 원하는 폴더로 변경</p>
 </div>
 
-## ***case MonkeyTravel
+## ***case MonkeyTravel***
 <div>      
                                    
 <img src="https://user-images.githubusercontent.com/48399897/73322428-1eec2780-4288-11ea-9560-315067a468a4.PNG" width="50%" height="40%" title="choice_category.py" alt="실행1">     </img><img src="https://user-images.githubusercontent.com/48399897/73322428-1eec2780-4288-11ea-9560-315067a468a4.PNG" width="50%" height="40%" title="monkey.py" alt="실행1">     </img>    
