@@ -14,12 +14,14 @@
           
         
 # 3.프로그램 작동법   
-### ***MyrealTrip, TripAdvisor, monkeyTravel 사용법***
+### ***MyrealTrip, TripAdvisor, monkeyTravel, Klook 사용법***
 **1. Choice_channel_nation.py 실행후 해당하는 채널, 국가 선택**
 
 
 <div> <img src="https://user-images.githubusercontent.com/48399897/73320598-2bba4c80-4283-11ea-96e2-525d8f7d8cd3.PNG" width="30%" height="40%" title="Choice_channel_nation.py" alt="실행1"> </img><img src="https://user-images.githubusercontent.com/48399897/73322763-aa65b880-4288-11ea-989d-02b9ed222d41.PNG" width="60%" height="40%" title="저장되는 위치 출력" alt="실행1">     </img>  
-</div>            
+</div>              
+
+### ***Klook 사용법***
 
 # 4.주의사항(파일이 생성되는 위치 바꾸고 싶은 경우)    
 ## ***case TripAdvisor***  
@@ -38,3 +40,6 @@
 
 <p>choice_category.py, monkey.py 빨간 동그라미친 폴더 설정 부분을 원하는 폴더로 변경</p>
 </div>
+
+## ***case Klook***
+1.실행 후 403에러 뜨면 klook사이트가서 봇 체크 풀어주기
