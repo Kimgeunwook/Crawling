@@ -13,7 +13,6 @@
 ```            
         
 # 3.프로그램 작동법   
-### ***MyrealTrip, TripAdvisor, monkeyTravel, Klook 사용법***
 **1. Choice_channel_nation.py 실행후 해당하는 채널, 국가 선택**
 
 
