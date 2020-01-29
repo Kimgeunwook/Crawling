@@ -7,17 +7,17 @@ import os
 import json
 from pprint import pprint
 import os.path
-import regular2
-import Ta_csvtoexcel
-import extract_country_in_mrt
-import Choice_menu_city
-import Mt_csv_to_excel
-import get_auto_name
-import city_top
-import Klook_detail
-import Klook_csv_to_excel
-import TripDotCom_nation_to_citylist
-import Tripdotcom_csv_to_excel
+from TripAdvisor import TripAdvisor_main
+from TripAdvisor import Ta_csvtoexcel
+from MyrealTrip import extract_country_in_mrt
+from MonkeyTravel import Choice_menu_city
+from MonkeyTravel import Mt_csv_to_excel
+from TripAdvisor import get_auto_name
+from TripAdvisor import city_top
+from Klook import Klook_detail
+from Klook import Klook_csv_to_excel
+from Trip.com import TripDotCom_nation_to_citylist
+from Trip.com import Tripdotcom_csv_to_excel
 print('1. MRT')
 print('2. Trip Advisor')
 print('3. Monkey Travel')
@@ -38,7 +38,7 @@ elif input_channel=='2':
     if input_num=='1':
         city_top.main(country,code)
     else:    
-        regular2.Ta_main(country,code)    
+        TripAdvisor_main.Ta_main(country,code)    
         Ta_csvtoexcel.csvtoexcel_main(country)
         print('Desktop\\country폴더 확인')
 elif input_channel=='3':

@@ -15,7 +15,7 @@ import urllib
 from concurrent.futures import ThreadPoolExecutor
 from pprint import pprint
 import os.path
-import choice_page
+from . import choice_page
 import chardet
 def main(input_country,input_nation,input_city,input_url):
     print('choice_category 진입')

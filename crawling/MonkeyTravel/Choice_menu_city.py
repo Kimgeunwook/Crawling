@@ -15,7 +15,7 @@ import urllib
 from concurrent.futures import ThreadPoolExecutor
 from pprint import pprint
 import chardet
-import choice_category
+from . import choice_category
 
 def main(input_country):
     if input_country=='vn':#베트남일때

@@ -8,7 +8,7 @@ import os.path
 import urllib
 from concurrent.futures import ThreadPoolExecutor
 from pprint import pprint
-import monkey
+from . import monkey
 import chardet
 
 def main(input_nation,input_city,input_category,input_url):
