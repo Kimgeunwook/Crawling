@@ -25,7 +25,7 @@
 **2. 해당하는 채널과 국가 선택**
 - - -   
 - - -    
-- - -   
+
 
 # 4.주의사항(파일이 생성되는 위치 바꾸고 싶은 경우)    
 **csv,excel 생성 위치 변경시**   
@@ -33,5 +33,5 @@
                                    
 <img src="https://user-images.githubusercontent.com/48399897/73321545-290d2680-4286-11ea-8765-c51f2f830db9.PNG" width="50%" height="40%" title="Choice_channel_nation.py실행장면" alt="실행1">     </img><img src="https://user-images.githubusercontent.com/48399897/73321635-6ffb1c00-4286-11ea-87c6-e112573c7cf0.PNG" width="50%" height="40%" title="Choice_channel_nation.py실행장면" alt="실행1">     </img>    
 
-<p>regular2.py, Ta_csvtoexcel.py 빨간 동그라미친 csv앞 폴더 설정 부분을 원하는 폴더로 변경</p>
+<p>regular2.py, Ta_csvtoexcel.py 빨간 동그라미친 폴더 설정 부분을 원하는 폴더로 변경</p>
 </div>
