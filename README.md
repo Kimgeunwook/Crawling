@@ -10,8 +10,7 @@
 4. pip install xlsxwriter
 5. pip install openpyxl
 6. pip install urllib
-```       
-![title](C:\Users\Mandy\Desktop\저장위치.png)          
+```            
         
 # 3.프로그램 작동법   
 ### ***MyrealTrip, TripAdvisor, monkeyTravel, Klook 사용법***
