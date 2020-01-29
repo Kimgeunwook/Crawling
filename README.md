@@ -27,7 +27,7 @@
       
 **2. 해당하는 채널과 국가 선택**
 # 4.주의사항(파일이 생성되는 위치 바꾸고 싶은 경우)    
-## case TripAdvisor  
+## ***case TripAdvisor  
 
 <div>      
                                    
@@ -36,7 +36,7 @@
 <p>regular2.py, Ta_csvtoexcel.py 빨간 동그라미친 폴더 설정 부분을 원하는 폴더로 변경</p>
 </div>
 
-## case MonkeyTravel
+## ***case MonkeyTravel
 <div>      
                                    
 <img src="https://user-images.githubusercontent.com/48399897/73322428-1eec2780-4288-11ea-9560-315067a468a4.PNG" width="50%" height="40%" title="choice_category.py" alt="실행1">     </img><img src="https://user-images.githubusercontent.com/48399897/73322428-1eec2780-4288-11ea-9560-315067a468a4.PNG" width="50%" height="40%" title="monkey.py" alt="실행1">     </img>    
