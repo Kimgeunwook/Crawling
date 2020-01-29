@@ -41,4 +41,7 @@
 
 ## ***case Klook***
 1.실행 후 403에러 뜨면 klook사이트가서 봇 체크 풀어주기    
-2.폴더 바꾸고 싶을때 4.주의사항의 tripadvisor, monkeytravel case처럼 폴더부분 바꿔주기
+2.csv,excel파일 생성 폴더 변경시 4.주의사항의 tripadvisor, monkeytravel case처럼 폴더부분 바꿔주기
+
+## ***Trip Dot com***    
+1.csv,excel파일 생성 폴더 변경시 4.주의사항의 tripadvisor, monkeytravel case처럼 폴더부분 바꿔주기
