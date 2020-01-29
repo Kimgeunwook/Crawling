@@ -21,8 +21,6 @@
 <div> <img src="https://user-images.githubusercontent.com/48399897/73320598-2bba4c80-4283-11ea-96e2-525d8f7d8cd3.PNG" width="30%" height="40%" title="Choice_channel_nation.py" alt="실행1"> </img><img src="https://user-images.githubusercontent.com/48399897/73322763-aa65b880-4288-11ea-989d-02b9ed222d41.PNG" width="60%" height="40%" title="저장되는 위치 출력" alt="실행1">     </img>  
 </div>              
 
-### ***Klook 사용법***
-
 # 4.주의사항(파일이 생성되는 위치 바꾸고 싶은 경우)    
 ## ***case TripAdvisor***  
 
@@ -42,4 +40,5 @@
 </div>
 
 ## ***case Klook***
-1.실행 후 403에러 뜨면 klook사이트가서 봇 체크 풀어주기
+1.실행 후 403에러 뜨면 klook사이트가서 봇 체크 풀어주기    
+2.폴더 바꾸고 싶을때 4.주의사항의 tripadvisor, monkeytravel case처럼 폴더부분 바꿔주기
