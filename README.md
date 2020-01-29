@@ -26,7 +26,7 @@
 #                  
               
 # 3. 프로그램 작동법   
-***1. Choice_channel_nation.py 실행***    
+__***1. Choice_channel_nation.py 실행***__
 ***2. 원하는 채널, 국가 선택***         
 ***3. 'finish' 문구가 뜨면 지정한 폴더에 가서 excel파일 확인***    
 #         
