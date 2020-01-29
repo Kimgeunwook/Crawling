@@ -16,8 +16,8 @@ from TripAdvisor import get_auto_name
 from TripAdvisor import city_top
 from Klook import Klook_detail
 from Klook import Klook_csv_to_excel
-from Trip.com import TripDotCom_nation_to_citylist
-from Trip.com import Tripdotcom_csv_to_excel
+from Tripdotcom import TripDotCom_nation_to_citylist
+from Tripdotcom import Tripdotcom_csv_to_excel
 print('1. MRT')
 print('2. Trip Advisor')
 print('3. Monkey Travel')
