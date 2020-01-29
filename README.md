@@ -65,7 +65,7 @@ Tripdotcom_csv_to_excel.py, TripDotCom_detail.py폴더 부분 수정
 ## 
 <div>      
                                    
-<img src="https://user-images.githubusercontent.com/48399897/73332497-418f3800-42aa-11ea-9e3f-58794e4ebbbe.PNG" width="50%" height="40%" title="실행 결과" alt="실행결과">     </img>
+<img src="https://user-images.githubusercontent.com/48399897/73332565-7ac7a800-42aa-11ea-90f8-a8233366f3c8.PNG" width="100%" height="80%" title="실행 결과" alt="실행결과">     </img>
 </div>
 
 
