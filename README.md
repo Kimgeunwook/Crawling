@@ -65,8 +65,7 @@ Tripdotcom_csv_to_excel.py, TripDotCom_detail.py폴더 부분 수정
 ## 
 <div>      
                                    
-<img src="https://user-images.githubusercontent.com/48399897/73332328-bdd54b80-42a9-11ea-94a1-63172d7772dd.PNG" width="50%" height="40%" title="실행 결과" alt="실행결과">     </img>
-<p>choice_category.py, monkey.py 빨간 동그라미친 폴더 설정 부분을 원하는 폴더로 변경</p>
+<img src="https://user-images.githubusercontent.com/48399897/73332497-418f3800-42aa-11ea-9e3f-58794e4ebbbe.PNG" width="50%" height="40%" title="실행 결과" alt="실행결과">     </img>
 </div>
 
 
