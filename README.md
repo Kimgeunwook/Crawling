@@ -1,6 +1,9 @@
 
 # 1.기능   
 채널과 국가를 선택하면 해당하는 채널, 국가의 여행 상품을 엑셀 파일로 저장하는 프로그램
+#         
+#                  
+          
 
 # 2.Prerequisites
 ```
@@ -11,7 +14,9 @@
 5. pip install openpyxl
 6. pip install urllib
 ```            
-        
+#         
+#                  
+              
 # 3.프로그램 작동법   
 **1. Choice_channel_nation.py 실행**    
 **2. 원하는 채널, 국가 선택**         
@@ -20,7 +25,9 @@
 
 <div> <center><img src="https://user-images.githubusercontent.com/48399897/73320598-2bba4c80-4283-11ea-96e2-525d8f7d8cd3.PNG" width="30%" height="40%" title="Choice_channel_nation.py" alt="실행1"> </img><img src="https://user-images.githubusercontent.com/48399897/73322763-aa65b880-4288-11ea-989d-02b9ed222d41.PNG" width="60%" height="40%" title="저장되는 위치 출력" alt="실행1">     </img>  
 </div>              
-
+#         
+#                  
+      
 # 4.주의사항(파일이 생성되는 위치 바꾸고 싶은 경우)    
 ## ***case TripAdvisor***  
 
