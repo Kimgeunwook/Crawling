@@ -15,12 +15,12 @@
 
 # 2. Prerequisites
 ```
-1. python 3.7.4
-2. pip install requests
-3. pip install beautifulsoup
-4. pip install xlsxwriter
-5. pip install openpyxl
-6. pip install urllib
+- python 3.7.4
+- pip install requests
+- pip install beautifulsoup
+- pip install xlsxwriter
+- pip install openpyxl
+- pip install urllib
 ```            
 #         
 #                  
