@@ -1,8 +1,8 @@
 
-# 기능   
+# 1.기능   
 채널과 국가를 선택하면 해당하는 채널, 국가의 여행 상품을 엑셀 파일로 저장하는 프로그램
 
-## Prerequisites
+# 2.Prerequisites
 ```
 1. python 3.7.4
 2. pip install requests
@@ -10,7 +10,7 @@
 ```       
           
         
-## 프로그램 작동법   
+# 3.프로그램 작동법   
 ### MyrealTrip, TripAdvisor, monkeyTravel 사용법
 **1. Choice_channel_nation.py 실행**
      
@@ -23,10 +23,12 @@
       
       
 **2. 해당하는 채널과 국가 선택**
+- - -   
+- - -    
+- - -   
 
-
-## 주의사항(파일이 생성되는 위치 바꾸고 싶은 경우)    
-1.csv생성 위치 변경시   
+# 4.주의사항(파일이 생성되는 위치 바꾸고 싶은 경우)    
+**csv,excel 생성 위치 변경시**   
 <div>      
                                    
 <img src="https://user-images.githubusercontent.com/48399897/73321545-290d2680-4286-11ea-8765-c51f2f830db9.PNG" width="50%" height="40%" title="Choice_channel_nation.py실행장면" alt="실행1">     </img><img src="https://user-images.githubusercontent.com/48399897/73321635-6ffb1c00-4286-11ea-87c6-e112573c7cf0.PNG" width="50%" height="40%" title="Choice_channel_nation.py실행장면" alt="실행1">     </img>    
