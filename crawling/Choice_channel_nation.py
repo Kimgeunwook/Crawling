@@ -14,9 +14,15 @@ import Choice_menu_city
 import Mt_csv_to_excel
 import get_auto_name
 import city_top
+import Klook_detail
+import Klook_csv_to_excel
+import TripDotCom_nation_to_citylist
+import Tripdotcom_csv_to_excel
 print('1. MRT')
 print('2. Trip Advisor')
 print('3. Monkey Travel')
+print('4. Klook')
+print('5. Trip.com')
 input_channel=input('채널 입력 :')
 
 if input_channel=='1':
@@ -45,3 +51,10 @@ elif input_channel=='3':
     elif input_country=='2':
         Choice_menu_city.main('thai')#베트남 페이지
         Mt_csv_to_excel.main('태국')
+elif input_channel=='4':
+    Klook_detail.main()
+    Klook_csv_to_excel.main()
+
+elif input_channel=='5': 
+    TripDotCom_nation_to_citylist.main()
+    Tripdotcom_csv_to_excel.main()

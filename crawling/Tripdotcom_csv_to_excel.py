@@ -49,7 +49,7 @@ def main():
 
     write_wb.save('C:\\Users\\Mandy\\Desktop\\country\\Tripdotcom\\All.xlsx')
     print('finish')
-main()    
+
 
 
 # In[ ]:
