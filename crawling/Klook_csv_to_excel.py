@@ -21,7 +21,7 @@ for i in range(1,35000):
         f = open('C:\\Users\\Mandy\\Desktop\\Klook\\'+str(i)+'.csv', 'r',encoding='utf-8')
         rdr = csv.reader(f)
         for a in rdr:
-          
+            line.append(a)
         f.close()
 write_ws.append(['Klook','나라','도시','상품번호','상품명',
                '옵션명','상품 URL','통화','가격','후기수','비고1','비고2'])
